@@ -1,4 +1,4 @@
-# colorpalette
+# color-thief-cli
 
 CLI interface for [fengsp/color-thief-py](https://github.com/lokesh/color-thief/).
 
